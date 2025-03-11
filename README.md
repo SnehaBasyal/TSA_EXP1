@@ -24,7 +24,7 @@ import seaborn as sns
 
 
 # Load the CSV file
-file_path ='financial_portfolio_data.csv'  # Replace with your file path
+file_path ='financial_portfolio_data.csv'  
 data = pd.read_csv(file_path)
 
 
