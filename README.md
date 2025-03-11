@@ -12,6 +12,10 @@ To Develop a python program to Plot a time series data (population/ market price
 5. Display the graph.
 
 # PROGRAM:
+
+Name: Sneha Basyal M
+Reg no: 212222240101
+
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
